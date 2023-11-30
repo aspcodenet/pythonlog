@@ -1,0 +1,34 @@
+Scanning file
+f1.log
+54.184.41.83 - carroll4128 [29/Nov/2023:18:19:44 +0100] "DELETE /grow/applications/extensible HTTP/1.1" 406 10916
+
+225.187.45.64 - cartwright8205 [29/Nov/2023:18:19:44 +0100] "GET /extend/syndicate/empower/morph HTTP/1.0" 504 16706
+
+88.171.237.107 - carter6672 [29/Nov/2023:18:19:44 +0100] "PATCH /users HTTP/1.0" 403 8145
+
+66.36.222.36 - cartwright2224 [29/Nov/2023:18:19:44 +0100] "POST /relationships/e-enable/ubiquitous HTTP/1.0" 201 5820
+
+Scanning file
+f2.log
+211.219.138.206 - cartwright2854 [29/Nov/2023:18:19:49 +0100] "POST /synergies/e-tailers HTTP/1.0" 416 17213
+
+Scanning file
+f3.log
+3.24.249.94 - carroll8835 [29/Nov/2023:18:19:51 +0100] "PATCH /functionalities/e-commerce/reinvent/real-time HTTP/2.0" 500 21966
+
+Scanning file
+f4.log
+52.59.35.176 - carroll6714 [29/Nov/2023:18:19:53 +0100] "PUT /next-generation/architectures/bandwidth/cutting-edge HTTP/1.0" 100 2083
+
+211.13.92.209 - carroll5103 [29/Nov/2023:18:19:53 +0100] "POST /grow/visualize/extend HTTP/1.1" 200 7219
+
+218.195.205.188 - carroll2883 [29/Nov/2023:18:19:53 +0100] "HEAD /portals/end-to-end/next-generation HTTP/1.0" 500 22639
+
+172.195.83.160 - cartwright2418 [29/Nov/2023:18:19:53 +0100] "HEAD /dynamic/users HTTP/1.0" 404 28714
+
+152.93.72.201 - cartwright8871 [29/Nov/2023:18:19:53 +0100] "POST /distributed/reinvent HTTP/2.0" 203 19814
+
+Scanning file
+f5.log
+3.243.224.255 - carroll1742 [30/Nov/2023:15:01:57 +0100] "GET /partnerships/empower HTTP/2.0" 100 27906
+
